@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "ListManagement";
+    Layout = "~/Views/Shared/_Template.cshtml";
+}
+<div class="card card-6">
+    <div class="card-heading">
+        <h2 class="title">Administrador de Listas de Contacto</h2>
+        <form action="SeleccionAccion" id="formContactlist" method="post" enctype="multipart/form-data">
+            @*<div>
+                @{
+                    List<SelectListItem> selectionList = new List<SelectListItem>();
+                    selectionList.Add(new SelectListItem { Text = "CREAR LISTA DE CONTACTOS", Value = "1" });
+                    selectionList.Add(new SelectListItem { Text = "MODIFICAR LISTA DE CONTACTOS", Value = "2" });
+                }
+                @Html.DropDownList("Selection List", selectionList, "SELECCIONAR:", htmlAttributes: new { @id = "dropdown", @class = "btn btn-secondary dropdown-toggle" })
+            </div>*@
+
+            <div class="form-row">
+                <div class="name">SELECCIONAR:</div>
+                <div class="value">
+                    @{
+                        List<SelectListItem> selectionList = new List<SelectListItem>();
+                        selectionList.Add(new SelectListItem { Text = "CREAR LISTA DE CONTACTOS", Value = "1" });
+                        selectionList.Add(new SelectListItem { Text = "MODIFICAR LISTA DE CONTACTOS", Value = "2" });
+                    }
+                    @Html.DropDownList("SelectionModo", selectionList, "SELECCIONAR:", htmlAttributes: new { @id = "dropdown", @class = "btn btn-secondary dropdown-toggle" })
+                    <button class="btn btn--radius-2 btn--blue-2" type="submit" id="ir">Ir</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+@section Scripts {
+
+}
+
+
+
+

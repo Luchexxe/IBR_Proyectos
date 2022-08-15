@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "ListaNueva";
+    Layout = "~/Views/Shared/_Template.cshtml";
+}
+
+<div class="card card-6">
+    <div class="card-heading">
+        <h2 class="title">Administrador de Listas de Contacto</h2>
+
+        <form action="_PartialList1" id="formContactlist" method="post" enctype="multipart/form-data">
+            <div class="card-body">
+
+                <div class="form-row">
+                    <div class="name">Nombre</div>
+                    <div class="value">
+                        <input class="input--style-6" type="text" name="nombre" id="nombre" placeholder="(No usar caracteres especiales)">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="name">División</div>
+                    <div class="value">
+                        @Html.DropDownList("selectListDivisions", (IEnumerable<SelectListItem>)ViewData["selectListDivisions"])
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="name">Columnas de teléfono</div>
+                    <div class="value">
+                        <div class="input-group">
+                            <input class="input--style-6" type="text" name="telefonos" id="telefonos" placeholder="(Separado por comas)">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="name">Tipos de teléfono</div>
+                    <div class="value">
+                        <div class="input-group">
+                            <input class="input--style-6" type="text" name="tipostelefono" id="tipostelefono" placeholder="(Separado por comas)">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="name">Columna de identificador único</div>
+                    <div class="value">
+                        <div class="input-group">
+                            <input class="input--style-6" type="text" name="identificador" id="identificador" placeholder="(Opcional)">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label class="form-label" for="customFile"><strong>Cargar archivo CSV</strong></label>
+                    <input class="form-control" type="file" name="file" id="file" accept=".csv" />
+                    <div class="label--desc">Cargar archivo en formato CSV. Máxima longitud del archivo 50 MB</div>
+                </div>
+
+            </div>
+            <div class="card-footer">
+                <button class="btn btn--radius-2 btn--blue-2" type="submit" id="guardar">Guardar</button>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+@section Scripts {
+
+}
+
+
+
+

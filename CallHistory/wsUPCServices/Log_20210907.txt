@@ -1,0 +1,25 @@
+******************      Log   20210907       ******************
+7/09/2021 12:07:08 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 1
+7/09/2021 12:07:20 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 2
+7/09/2021 12:07:30 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 3
+7/09/2021 12:07:40 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 4
+7/09/2021 12:07:50 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 5
+7/09/2021 12:08:01 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 6
+7/09/2021 12:08:10 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 7
+7/09/2021 12:08:20 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 8
+7/09/2021 12:08:28 ==>  Ejecutando Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || Total Conversaciones:898 || Page: 9
+7/09/2021 12:09:35 ==>  Intervalo: 2021-09-06T16:00:00/2021-09-06T17:00:00 || FINALIZADO || Total Conversaciones: 898
+7/09/2021 15:09:52 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 1
+7/09/2021 15:10:03 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 2
+7/09/2021 15:10:18 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 3
+7/09/2021 15:10:30 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 4
+7/09/2021 15:10:41 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 5
+7/09/2021 15:10:51 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 6
+7/09/2021 15:11:01 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 7
+7/09/2021 15:11:11 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 8
+7/09/2021 15:11:21 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 9
+7/09/2021 15:11:33 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 10
+7/09/2021 15:11:44 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 11
+7/09/2021 15:11:55 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 12
+7/09/2021 15:12:04 ==>  Ejecutando Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || Total Conversaciones:1240 || Page: 13
+7/09/2021 15:12:07 ==>  Intervalo: 2021-09-06T19:00:00/2021-09-06T20:00:00 || FINALIZADO || Total Conversaciones: 1240

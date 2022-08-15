@@ -1,0 +1,57 @@
+******************      Log   20210818       ******************
+18/08/2021 09:31:10 ==>  Ejecutando Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || Total Conversaciones:6 || Page: 1
+18/08/2021 09:31:11 ==>  Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || FINALIZADO || Total Conversaciones: 6
+18/08/2021 09:34:05 ==>  Ejecutando Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || Total Conversaciones:6 || Page: 1
+18/08/2021 09:34:05 ==>  Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || FINALIZADO || Total Conversaciones: 6
+18/08/2021 09:35:40 ==>  Ejecutando Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || Total Conversaciones:6 || Page: 1
+18/08/2021 09:35:40 ==>  Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || FINALIZADO || Total Conversaciones: 6
+18/08/2021 09:37:23 ==>  Ejecutando Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || Total Conversaciones:6 || Page: 1
+18/08/2021 09:38:02 ==>  Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || FINALIZADO || Total Conversaciones: 6
+18/08/2021 09:39:31 ==>  Ejecutando Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || Total Conversaciones:6 || Page: 1
+18/08/2021 09:42:37 ==>  Ejecutando Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || Total Conversaciones:6 || Page: 1
+18/08/2021 09:45:42 ==>  Ejecutando Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || Total Conversaciones:6 || Page: 1
+18/08/2021 09:46:03 ==>  Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || FINALIZADO || Total Conversaciones: 6
+18/08/2021 09:47:15 ==>  Ejecutando Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || Total Conversaciones:6 || Page: 1
+18/08/2021 09:47:30 ==>  Intervalo: 2021-08-17T13:00:00/2021-08-17T14:00:00 || FINALIZADO || Total Conversaciones: 6
+18/08/2021 09:47:53 ==>  Ejecutando Intervalo: 2021-08-17T14:00:00/2021-08-17T15:00:00 || Total Conversaciones:1 || Page: 1
+18/08/2021 09:47:53 ==>  Intervalo: 2021-08-17T14:00:00/2021-08-17T15:00:00 || FINALIZADO || Total Conversaciones: 1
+18/08/2021 09:48:48 ==>  Ejecutando Intervalo: 2021-08-17T17:00:00/2021-08-17T18:00:00 || Total Conversaciones:96 || Page: 1
+18/08/2021 09:48:55 ==>  Intervalo: 2021-08-17T17:00:00/2021-08-17T18:00:00 || FINALIZADO || Total Conversaciones: 96
+18/08/2021 09:49:50 ==>  Ejecutando Intervalo: 2021-08-17T19:00:00/2021-08-17T20:00:00 || Total Conversaciones:120 || Page: 1
+18/08/2021 09:50:01 ==>  Ejecutando Intervalo: 2021-08-17T19:00:00/2021-08-17T20:00:00 || Total Conversaciones:120 || Page: 2
+18/08/2021 09:50:02 ==>  Intervalo: 2021-08-17T19:00:00/2021-08-17T20:00:00 || FINALIZADO || Total Conversaciones: 120
+18/08/2021 09:51:19 ==>  Ejecutando Intervalo: 2021-08-17T18:00:00/2021-08-17T19:00:00 || Total Conversaciones:65 || Page: 1
+18/08/2021 09:51:25 ==>  Intervalo: 2021-08-17T18:00:00/2021-08-17T19:00:00 || FINALIZADO || Total Conversaciones: 65
+18/08/2021 09:59:46 ==>  Ejecutando Intervalo: 2021-08-17T14:00:00/2021-08-17T15:00:00 || Total Conversaciones:1 || Page: 1
+18/08/2021 09:59:46 ==>  Intervalo: 2021-08-17T14:00:00/2021-08-17T15:00:00 || FINALIZADO || Total Conversaciones: 1
+18/08/2021 10:01:14 ==>  Ejecutando Intervalo: 2021-08-17T20:00:00/2021-08-17T21:00:00 || Total Conversaciones:135 || Page: 1
+18/08/2021 10:01:26 ==>  Ejecutando Intervalo: 2021-08-17T20:00:00/2021-08-17T21:00:00 || Total Conversaciones:135 || Page: 2
+18/08/2021 10:01:28 ==>  Intervalo: 2021-08-17T20:00:00/2021-08-17T21:00:00 || FINALIZADO || Total Conversaciones: 135
+18/08/2021 10:02:44 ==>  Ejecutando Intervalo: 2021-08-17T22:00:00/2021-08-17T23:00:00 || Total Conversaciones:123 || Page: 1
+18/08/2021 10:02:57 ==>  Ejecutando Intervalo: 2021-08-17T22:00:00/2021-08-17T23:00:00 || Total Conversaciones:123 || Page: 2
+18/08/2021 10:02:59 ==>  Intervalo: 2021-08-17T22:00:00/2021-08-17T23:00:00 || FINALIZADO || Total Conversaciones: 123
+18/08/2021 10:23:21 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 1
+18/08/2021 10:31:14 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 1
+18/08/2021 10:31:29 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 2
+18/08/2021 10:31:38 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 3
+18/08/2021 10:31:46 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 4
+18/08/2021 10:31:48 ==>  Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || FINALIZADO || Total Conversaciones: 320
+18/08/2021 12:07:47 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 1
+18/08/2021 12:07:57 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 2
+18/08/2021 12:08:06 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 3
+18/08/2021 12:08:15 ==>  Ejecutando Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || Total Conversaciones:320 || Page: 4
+18/08/2021 12:08:16 ==>  Intervalo: 2021-08-18T14:00:00/2021-08-18T15:00:00 || FINALIZADO || Total Conversaciones: 320
+18/08/2021 12:09:08 ==>  Ejecutando Intervalo: 2021-08-18T13:00:00/2021-08-18T14:00:00 || Total Conversaciones:285 || Page: 1
+18/08/2021 12:09:19 ==>  Ejecutando Intervalo: 2021-08-18T13:00:00/2021-08-18T14:00:00 || Total Conversaciones:285 || Page: 2
+18/08/2021 12:09:27 ==>  Ejecutando Intervalo: 2021-08-18T13:00:00/2021-08-18T14:00:00 || Total Conversaciones:285 || Page: 3
+18/08/2021 12:09:35 ==>  Intervalo: 2021-08-18T13:00:00/2021-08-18T14:00:00 || FINALIZADO || Total Conversaciones: 285
+18/08/2021 12:31:36 ==>  Ejecutando Intervalo: 2021-08-18T15:00:00/2021-08-18T16:00:00 || Total Conversaciones:305 || Page: 1
+18/08/2021 12:31:47 ==>  Ejecutando Intervalo: 2021-08-18T15:00:00/2021-08-18T16:00:00 || Total Conversaciones:305 || Page: 2
+18/08/2021 12:31:57 ==>  Ejecutando Intervalo: 2021-08-18T15:00:00/2021-08-18T16:00:00 || Total Conversaciones:305 || Page: 3
+18/08/2021 12:32:06 ==>  Ejecutando Intervalo: 2021-08-18T15:00:00/2021-08-18T16:00:00 || Total Conversaciones:305 || Page: 4
+18/08/2021 12:32:06 ==>  Intervalo: 2021-08-18T15:00:00/2021-08-18T16:00:00 || FINALIZADO || Total Conversaciones: 305
+18/08/2021 12:32:31 ==>  Ejecutando Intervalo: 2021-08-18T16:00:00/2021-08-18T17:00:00 || Total Conversaciones:387 || Page: 1
+18/08/2021 12:32:41 ==>  Ejecutando Intervalo: 2021-08-18T16:00:00/2021-08-18T17:00:00 || Total Conversaciones:387 || Page: 2
+18/08/2021 12:32:53 ==>  Ejecutando Intervalo: 2021-08-18T16:00:00/2021-08-18T17:00:00 || Total Conversaciones:387 || Page: 3
+18/08/2021 12:33:05 ==>  Ejecutando Intervalo: 2021-08-18T16:00:00/2021-08-18T17:00:00 || Total Conversaciones:387 || Page: 4
+18/08/2021 12:33:13 ==>  Intervalo: 2021-08-18T16:00:00/2021-08-18T17:00:00 || FINALIZADO || Total Conversaciones: 387

@@ -1,0 +1,6 @@
+******************      Log   20210917       ******************
+17/09/2021 07:03:04 ==>  Ejecutando Intervalo: 2021-09-17T11:00:00/2021-09-17T12:00:00 || Total Conversaciones:0 || Page: 1
+17/09/2021 08:24:00 ==>  Ejecutando Intervalo: 2021-09-17T12:00:00/2021-09-17T13:00:00 || Total Conversaciones:0 || Page: 1
+17/09/2021 09:01:17 ==>  Ejecutando Intervalo: 2021-09-17T13:00:00/2021-09-17T14:00:00 || Total Conversaciones:0 || Page: 1
+17/09/2021 13:26:29 ==>  Ejecutando Intervalo: 2021-09-15T22:00:00/2021-09-15T23:00:00 || Total Conversaciones:55 || Page: 1
+17/09/2021 13:26:35 ==>  Intervalo: 2021-09-15T22:00:00/2021-09-15T23:00:00 || FINALIZADO || Total Conversaciones: 55

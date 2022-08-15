@@ -1,0 +1,9 @@
+******************      Log   20210806       ******************
+6/08/2021 13:50:50 ==>  Ejecutando Intervalo: 2021-06-01T00:00:00/2021-06-30T23:59:59 || Total Conversaciones:78 || Page: 1
+6/08/2021 13:50:55 ==>  Intervalo: 2021-06-01T00:00:00/2021-06-30T23:59:59 || FINALIZADO || Total Conversaciones: 78
+6/08/2021 13:51:20 ==>  Ejecutando Intervalo: 2021-07-01T00:00:00/2021-07-31T23:59:59 || Total Conversaciones:8 || Page: 1
+6/08/2021 13:51:21 ==>  Intervalo: 2021-07-01T00:00:00/2021-07-31T23:59:59 || FINALIZADO || Total Conversaciones: 8
+6/08/2021 13:51:40 ==>  Ejecutando Intervalo: 2021-08-01T00:00:00/2021-08-05T23:59:59 || Total Conversaciones:15 || Page: 1
+6/08/2021 13:51:41 ==>  Intervalo: 2021-08-01T00:00:00/2021-08-05T23:59:59 || FINALIZADO || Total Conversaciones: 15
+6/08/2021 18:01:46 ==>  Ejecutando Intervalo: 2021-06-01T00:00:00/2021-06-30T23:59:59 || Total Conversaciones:78 || Page: 1
+6/08/2021 18:01:51 ==>  Intervalo: 2021-06-01T00:00:00/2021-06-30T23:59:59 || FINALIZADO || Total Conversaciones: 78

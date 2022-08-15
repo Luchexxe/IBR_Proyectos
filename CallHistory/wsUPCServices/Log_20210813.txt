@@ -1,0 +1,11 @@
+******************      Log   20210813       ******************
+13/08/2021 09:10:41 ==>  Ejecutando Intervalo: 2021-08-01T00:00:00/2021-08-01T01:00:00 || Total Conversaciones:0 || Page: 1
+13/08/2021 09:11:49 ==>  Ejecutando Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || Total Conversaciones:3 || Page: 1
+13/08/2021 09:11:50 ==>  Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || FINALIZADO || Total Conversaciones: 3
+13/08/2021 09:14:37 ==>  Ejecutando Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || Total Conversaciones:3 || Page: 1
+13/08/2021 09:15:27 ==>  Ejecutando Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || Total Conversaciones:3 || Page: 1
+13/08/2021 09:20:45 ==>  Ejecutando Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || Total Conversaciones:3 || Page: 1
+13/08/2021 09:26:59 ==>  Ejecutando Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || Total Conversaciones:3 || Page: 1
+13/08/2021 09:29:13 ==>  Ejecutando Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || Total Conversaciones:3 || Page: 1
+13/08/2021 09:32:33 ==>  Ejecutando Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || Total Conversaciones:3 || Page: 1
+13/08/2021 09:37:33 ==>  Intervalo: 2021-08-05T13:00:00/2021-08-05T14:00:00 || FINALIZADO || Total Conversaciones: 3
